@@ -1,0 +1,6 @@
+Chi-squared: 146.521
+Parameters:
+Background: 1
+Signal Scale: 100
+Signal Mean: 550
+Signal Sigma: 10
